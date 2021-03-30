@@ -3,15 +3,7 @@ A Python/Pandas interface for GoData
 
 ## Setup
 
-### From PyPI
-
-If you want to use the package in your project:
-
-```shell
-pip install pygodata
-```
-
-### Setup editable install from source
+### Editable install from source
 
 If you want to be able to make changes to the package and maybe make a pull request:
 
